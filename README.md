@@ -1,7 +1,3 @@
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<i class="devicon-adonisjs-original colori"></i>
-                   
 ### Olá,sou o Paulo César 😎🌹
 
 Sou estudante de Bachalerado em Informática na Universidade
