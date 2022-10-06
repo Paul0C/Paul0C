@@ -17,5 +17,7 @@ Atualmente as tecnologias que conheço e estou estudando são:
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
  
-          
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul0C&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
