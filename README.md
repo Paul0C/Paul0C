@@ -3,7 +3,7 @@
 Sou estudante de Bachalerado em Informática na Universidade
 Estadual de Maringá.
 
-Atualmente estudo C#/.NET e estou em busca de estágio nessas tecnologias.
+Atualmente sou Desenvolvedor C#/.NET.
 
 Atualmente as tecnologias que conheço e estou estudando são:
 
