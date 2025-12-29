@@ -1,6 +1,6 @@
 ### Olá,sou o Paulo César 😎🌹
 
-Sou estudante de Bachalerado em Informática na Universidade
+Sou formado em Bachalerado em Informática na Universidade
 Estadual de Maringá.
 
 Atualmente sou Desenvolvedor C#/.NET.
